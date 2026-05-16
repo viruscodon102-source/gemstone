@@ -241,8 +241,59 @@ Gemstone hướng đến việc cung cấp những sản phẩm vừa là phụ 
 
 ## 10. Hình ảnh minh họa
 
+<img src="./anh/anh/Picture1.jpg"  width="700">
 
+<img src="./anh/anh/Picture2.jpg"  width="700">
 
+<img src="./anh/anh/Picture3.jpg"  width="700">
+
+<img src="./anh/anh/Picture4.jpg"  width="700">
+
+<img src="./anh/anh/Picture7.jpg"  width="700">
+
+<img src="./anh/anh/Picture8.jpg"  width="700">
+
+<img src="./anh/anh/Picture9.jpg"  width="700">
+
+<img src="./anh/anh/Picture10.jpg"  width="700">
+
+<img src="./anh/anh/Picture11.jpg"  width="700">
+
+<img src="./anh/anh/Picture12.jpg"  width="700">
+
+<img src="./anh/anh/Picture13.jpg"  width="700">
+
+<img src="./anh/anh/Picture14.jpg"  width="700">
+
+<img src="./anh/anh/Picture15.jpg"  width="700">
+
+<img src="./anh/anh/Picture16.jpg"  width="700">
+
+<img src="./anh/anh/Picture17.jpg"  width="700">
+
+<img src="./anh/anh/Picture18.jpg"  width="700">
+
+<img src="./anh/anh/Picture19.jpg"  width="700">
+
+<img src="./anh/anh/Pictur20.jpg"  width="700">
+
+<img src="./anh/anh/Picture21.jpg"  width="700">
+
+<img src="./anh/anh/Picture22.jpg"  width="700">
+
+<img src="./anh/anh/Picture23.jpg"  width="700">
+
+<img src="./anh/anh/Picture24.jpg"  width="700">
+
+<img src="./anh/anh/Picture25.jpg"  width="700">
+
+<img src="./anh/anh/Picture26.jpg"  width="700">
+
+<img src="./anh/anh/Picture27.jpg"  width="700">
+
+<img src="./anh/anh/Picture28.jpg"  width="700">
+
+<img src="./anh/anh/Picture29.jpg"  width="700">
 ---
 
 ## 11. Video demo
