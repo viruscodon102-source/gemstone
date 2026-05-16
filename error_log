@@ -1,0 +1,46 @@
+[14-May-2026 15:08:25 UTC] Lỗi lịch sự kiện Cron cho hook: action_scheduler_run_queue, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-May-2026 01:22:31 UTC] PHP Warning:  unserialize(): Error at offset 0 of 5 bytes in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 120
+[15-May-2026 01:22:31 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 74
+[15-May-2026 01:22:31 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 75
+[15-May-2026 01:22:34 UTC] PHP Warning:  unserialize(): Error at offset 0 of 5 bytes in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 120
+[15-May-2026 01:22:34 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 74
+[15-May-2026 01:22:34 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 75
+[15-May-2026 01:22:34 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/sharecsn/gemstone.sharecs.net/wp-admin/includes/class-wp-automatic-updater.php on line 228
+[15-May-2026 01:22:38 UTC] PHP Warning:  unserialize(): Error at offset 0 of 5 bytes in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 120
+[15-May-2026 01:22:38 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 74
+[15-May-2026 01:22:38 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 75
+[15-May-2026 12:34:22 UTC] PHP Warning:  unserialize(): Error at offset 0 of 5 bytes in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 120
+[15-May-2026 12:34:22 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 74
+[15-May-2026 12:34:22 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 75
+[15-May-2026 12:34:26 UTC] PHP Warning:  unserialize(): Error at offset 0 of 5 bytes in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 120
+[15-May-2026 12:34:26 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 74
+[15-May-2026 12:34:26 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 75
+[15-May-2026 12:34:26 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/sharecsn/gemstone.sharecs.net/wp-admin/includes/class-wp-automatic-updater.php on line 228
+[15-May-2026 12:34:33 UTC] PHP Warning:  unserialize(): Error at offset 0 of 5 bytes in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 120
+[15-May-2026 12:34:33 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 74
+[15-May-2026 12:34:33 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 75
+[15-May-2026 14:33:36 UTC] PHP Warning:  Undefined array key "shipping_phone" in /home/sharecsn/gemstone.sharecs.net/wp-content/themes/shopnet/functions.php on line 98
+[15-May-2026 14:51:43 UTC] PHP Warning:  Undefined array key "shipping_phone" in /home/sharecsn/gemstone.sharecs.net/wp-content/themes/shopnet/functions.php on line 98
+[15-May-2026 14:51:56 UTC] PHP Warning:  Undefined array key "shipping_phone" in /home/sharecsn/gemstone.sharecs.net/wp-content/themes/shopnet/functions.php on line 98
+[15-May-2026 14:51:56 UTC] PHP Warning:  array_sum(): Addition is not supported on type string in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php on line 2088
+[15-May-2026 14:52:19 UTC] PHP Warning:  Undefined array key "shipping_phone" in /home/sharecsn/gemstone.sharecs.net/wp-content/themes/shopnet/functions.php on line 98
+[15-May-2026 14:53:16 UTC] PHP Warning:  Undefined array key "shipping_phone" in /home/sharecsn/gemstone.sharecs.net/wp-content/themes/shopnet/functions.php on line 98
+[15-May-2026 14:53:17 UTC] PHP Warning:  array_sum(): Addition is not supported on type string in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php on line 2088
+[15-May-2026 15:27:10 UTC] PHP Warning:  Undefined array key "shipping_phone" in /home/sharecsn/gemstone.sharecs.net/wp-content/themes/shopnet/functions.php on line 98
+[15-May-2026 16:00:05 UTC] PHP Warning:  Undefined variable $emailsresponse in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/super-socializer/super_socializer.php on line 1765
+[15-May-2026 16:01:32 UTC] PHP Warning:  Undefined variable $emailsresponse in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/super-socializer/super_socializer.php on line 1765
+[15-May-2026 17:09:09 UTC] PHP Warning:  Undefined variable $emailsresponse in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/super-socializer/super_socializer.php on line 1765
+[16-May-2026 02:37:55 UTC] PHP Warning:  unserialize(): Error at offset 0 of 5 bytes in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 120
+[16-May-2026 02:37:55 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 74
+[16-May-2026 02:37:55 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 75
+[16-May-2026 02:37:59 UTC] PHP Warning:  unserialize(): Error at offset 0 of 5 bytes in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 120
+[16-May-2026 02:37:59 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 74
+[16-May-2026 02:37:59 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 75
+[16-May-2026 02:37:59 UTC] PHP Warning:  Undefined property: stdClass::$plugin in /home/sharecsn/gemstone.sharecs.net/wp-admin/includes/class-wp-automatic-updater.php on line 228
+[16-May-2026 02:38:03 UTC] PHP Warning:  unserialize(): Error at offset 0 of 5 bytes in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 120
+[16-May-2026 02:38:03 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 74
+[16-May-2026 02:38:03 UTC] PHP Warning:  Attempt to read property "download_link" on false in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/devvn-quick-buy/includes/updates.php on line 75
+[16-May-2026 02:42:24 UTC] PHP Warning:  Undefined variable $emailsresponse in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/super-socializer/super_socializer.php on line 1765
+[16-May-2026 02:49:02 UTC] PHP Warning:  Undefined variable $emailsresponse in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/super-socializer/super_socializer.php on line 1765
+[16-May-2026 02:52:18 UTC] PHP Warning:  Undefined array key "shipping_phone" in /home/sharecsn/gemstone.sharecs.net/wp-content/themes/shopnet/functions.php on line 98
+[16-May-2026 03:07:27 UTC] PHP Warning:  Undefined variable $emailsresponse in /home/sharecsn/gemstone.sharecs.net/wp-content/plugins/super-socializer/super_socializer.php on line 1765

@@ -1,0 +1,15 @@
+2026-05-02T12:18:24+00:00 CRITICAL Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in D:\xampp\htdocs\gemstone\wp-content\themes\shopnet\woocommerce\single-product\layouts\product-right-sidebar.php:143
+Stack trace:
+#0 D:\xampp\htdocs\gemstone\wp-content\themes\shopnet\woocommerce\single-product\layouts\product-right-sidebar.php(143): number_format('')
+#1 D:\xampp\htdocs\gemstone\wp-includes\template.php(816): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\gemstone\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp\\htdocs...', false)
+#3 D:\xampp\htdocs\gemstone\wp-content\themes\flatsome\woocommerce\content-single-product.php(41): wc_get_template_part('single-product/...', 'right-sidebar')
+#4 D:\xampp\htdocs\gemstone\wp-includes\template.php(816): require('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\gemstone\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp\\htdocs...', false)
+#6 D:\xampp\htdocs\gemstone\wp-content\themes\flatsome\woocommerce\single-product.php(38): wc_get_template_part('content', 'single-product')
+#7 D:\xampp\htdocs\gemstone\wp-includes\template-loader.php(132): include('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\gemstone\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#9 D:\xampp\htdocs\gemstone\index.php(17): require('D:\\xampp\\htdocs...')
+#10 {main}
+  thrown in D:\xampp\htdocs\gemstone\wp-content\themes\shopnet\woocommerce\single-product\layouts\product-right-sidebar.php on line 143
+
