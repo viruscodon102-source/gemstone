@@ -20,10 +20,10 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'sharecsn_wp272' );
+define( 'DB_NAME', 'genstone' );
 
 /** Database username */
-define( 'DB_USER', 'sharecsn_wp272' );
+define( 'DB_USER', 'genstone' );
 
 /** Database password */
 define( 'DB_PASSWORD', '!)7[9jKm[Kx5-HE@@tSp' );
