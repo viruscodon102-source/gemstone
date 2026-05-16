@@ -247,7 +247,7 @@ Gemstone hướng đến việc cung cấp những sản phẩm vừa là phụ 
 
 ## 11. Video demo
 
-> _(Thêm link video demo — YouTube, Google Drive, v.v.)_
+https://youtu.be/jy5tMgjSR6M
 
 ---
 
