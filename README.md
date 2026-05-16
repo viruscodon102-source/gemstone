@@ -249,51 +249,51 @@ Gemstone hướng đến việc cung cấp những sản phẩm vừa là phụ 
 
 <img src="./anh/anh/Picture4.jpg"  width="700">
 
-<img src="./anh/anh/Picture7.jpg"  width="700">
+<img src="./anh/anh/Picture7.png"  width="700">
 
-<img src="./anh/anh/Picture8.jpg"  width="700">
+<img src="./anh/anh/Picture8.png"  width="700">
 
-<img src="./anh/anh/Picture9.jpg"  width="700">
+<img src="./anh/anh/Picture9.png"  width="700">
 
-<img src="./anh/anh/Picture10.jpg"  width="700">
+<img src="./anh/anh/Picture10.png"  width="700">
 
-<img src="./anh/anh/Picture11.jpg"  width="700">
+<img src="./anh/anh/Picture11.png"  width="700">
 
-<img src="./anh/anh/Picture12.jpg"  width="700">
+<img src="./anh/anh/Picture12.png"  width="700">
 
-<img src="./anh/anh/Picture13.jpg"  width="700">
+<img src="./anh/anh/Picture13.png"  width="700">
 
-<img src="./anh/anh/Picture14.jpg"  width="700">
+<img src="./anh/anh/Picture14.png"  width="700">
 
-<img src="./anh/anh/Picture15.jpg"  width="700">
+<img src="./anh/anh/Picture15.png"  width="700">
 
-<img src="./anh/anh/Picture16.jpg"  width="700">
+<img src="./anh/anh/Picture16.png"  width="700">
 
-<img src="./anh/anh/Picture17.jpg"  width="700">
+<img src="./anh/anh/Picture17.png"  width="700">
 
-<img src="./anh/anh/Picture18.jpg"  width="700">
+<img src="./anh/anh/Picture18.png"  width="700">
 
-<img src="./anh/anh/Picture19.jpg"  width="700">
+<img src="./anh/anh/Picture19.png"  width="700">
 
-<img src="./anh/anh/Pictur20.jpg"  width="700">
+<img src="./anh/anh/Pictur20.png"  width="700">
 
-<img src="./anh/anh/Picture21.jpg"  width="700">
+<img src="./anh/anh/Picture21.png"  width="700">
 
-<img src="./anh/anh/Picture22.jpg"  width="700">
+<img src="./anh/anh/Picture22.png"  width="700">
 
-<img src="./anh/anh/Picture23.jpg"  width="700">
+<img src="./anh/anh/Picture23.png"  width="700">
 
-<img src="./anh/anh/Picture24.jpg"  width="700">
+<img src="./anh/anh/Picture24.png"  width="700">
 
-<img src="./anh/anh/Picture25.jpg"  width="700">
+<img src="./anh/anh/Picture25.png"  width="700">
 
-<img src="./anh/anh/Picture26.jpg"  width="700">
+<img src="./anh/anh/Picture26.png"  width="700">
 
-<img src="./anh/anh/Picture27.jpg"  width="700">
+<img src="./anh/anh/Picture27.png"  width="700">
 
-<img src="./anh/anh/Picture28.jpg"  width="700">
+<img src="./anh/anh/Picture28.png"  width="700">
 
-<img src="./anh/anh/Picture29.jpg"  width="700">
+<img src="./anh/anh/Picture29.png"  width="700">
 ---
 
 ## 11. Video demo
