@@ -73,7 +73,6 @@ Gemstone hướng đến việc cung cấp những sản phẩm vừa là phụ 
 | **Header** | Thiết kế thanh điều hướng chính (logo, menu: Trang chủ, Cửa hàng, Yêu thích, Giới thiệu, Blog, Liên hệ, Tài khoản); thanh tìm kiếm sản phẩm; icon giỏ hàng hiển thị số lượng; nút đăng nhập / đăng ký; responsive trên mobile |
 | **Footer** | Xây dựng footer 4 cột: Thông tin (Giới thiệu, Điều khoản, Liên hệ), Hỗ trợ khách hàng (Hướng dẫn mua hàng, Thanh toán, Vận chuyển), Hỗ trợ kỹ thuật, Tùy chọn khách hàng; tích hợp link mạng xã hội (Facebook) và email liên hệ |
 | **Trang chủ** | Banner carousel 5 ảnh ngũ hành phong thủy (Kim, Mộc, Thủy, Hỏa, Thổ); 4 feature box nêu bật giá trị cốt lõi; section sản phẩm nổi bật (Top Items — grid 15 sản phẩm); section gói sản phẩm Hot (Hot Product Packages); banner VIP membership; section bài viết mới nhất |
-| **Giỏ hàng** | Trang giỏ hàng: hiển thị danh sách sản phẩm đã chọn (ảnh, tên, giá, số lượng); cập nhật số lượng hoặc xóa sản phẩm; tính tổng tiền tự động; áp dụng mã giảm giá (coupon); nút tiếp tục mua sắm và nút tiến hành thanh toán |
 | **Blog** | Trang danh sách bài viết phong thủy: hiển thị thumbnail, tiêu đề, tóm tắt, ngày đăng; hỗ trợ phân trang; trang đọc chi tiết bài viết; section bài viết liên quan |
 | **Liên hệ** | Form tư vấn (họ tên, số điện thoại, email, nhu cầu tư vấn, nội dung); hiển thị thông tin địa chỉ (247 Cầu Giấy, Hà Nội), hotline, email, giờ làm việc (T2–CN 08:00–21:00); nhúng bản đồ Google Maps |
 | **Đăng nhập mạng xã hội** | Tích hợp đăng nhập / đăng ký nhanh qua **Facebook** và **Google** (OAuth); hiển thị nút Social Login trên trang đăng nhập và đăng ký; tự động tạo tài khoản WooCommerce khi đăng nhập lần đầu qua mạng xã hội |
@@ -95,6 +94,7 @@ Gemstone hướng đến việc cung cấp những sản phẩm vừa là phụ 
 | **Sản phẩm yêu thích (Wishlist)** | Trang hiển thị danh sách sản phẩm đã đánh dấu yêu thích; cho phép xóa sản phẩm khỏi wishlist; nút chuyển trực tiếp sang thêm vào giỏ hàng; đồng bộ trạng thái icon yêu thích trên toàn site |
 | **Giới thiệu** | Trang About: câu chuyện thương hiệu Gemstone, sứ mệnh và giá trị cốt lõi (tài lộc – bình an – may mắn – sức khỏe), phong cách sang trọng – gần gũi – bền vững, cam kết tư vấn cá nhân hóa |
 | **Đăng ký / Đăng nhập** | Form đăng ký tài khoản mới (họ tên, email, mật khẩu, xác nhận mật khẩu); form đăng nhập (email/username, mật khẩu, nhớ đăng nhập); chức năng quên mật khẩu và đặt lại qua email |
+| **Giỏ hàng** | Trang giỏ hàng: hiển thị danh sách sản phẩm đã chọn (ảnh, tên, giá, số lượng); cập nhật số lượng hoặc xóa sản phẩm; tính tổng tiền tự động; áp dụng mã giảm giá (coupon); nút tiếp tục mua sắm và nút tiến hành thanh toán |
 
 ---
 
@@ -241,7 +241,7 @@ Gemstone hướng đến việc cung cấp những sản phẩm vừa là phụ 
 
 ## 10. Hình ảnh minh họa
 
-> _(Thêm ảnh chụp màn hình giao diện website vào đây)_
+
 
 ---
 
