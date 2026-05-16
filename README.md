@@ -275,7 +275,7 @@ Gemstone hướng đến việc cung cấp những sản phẩm vừa là phụ 
 
 <img src="./anh/anh/Picture19.png"  width="700">
 
-<img src="./anh/anh/Pictur20.png"  width="700">
+<img src="./anh/anh/Picture20.png"  width="700">
 
 <img src="./anh/anh/Picture21.png"  width="700">
 
